@@ -1,6 +1,6 @@
 # Traffic Tutorial
 
-Sample application created as a result of a tutorial: [Traffic tutorial](https://developer.tomtom.com/maps-sdk-web-js/tutorials-use-cases/traffic-tutorial).
+Sample application created as a result of a tutorial: [Traffic tutorial](https://developer.tomtom.com/maps-sdk-web-js-v5/tutorials-use-cases/traffic-tutorial).
 
 ## App screenshot
 
