@@ -19,7 +19,7 @@
 #lets-start-button {
   background-color: #000;
   border: none;
-  font: 700 14px/1.14 Gotham;
+  font: 700 14px/1.14 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
 }
 
 #lets-start-button:hover {
@@ -30,7 +30,7 @@
   background-color: #fff;
   border: none;
   color: #000;
-  font: 700 14px/1.14 Gotham;
+  font: 700 14px/1.14 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
 }
 
 #modal-close-button {
@@ -69,7 +69,7 @@
 
 .show-traffic-layers {
   color: #b2b2b2;
-  font: 700 14px / normal Gotham;
+  font: 700 14px / normal -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   font-stretch: normal;
   height: 16px;
   letter-spacing: -0.25px;
@@ -99,7 +99,7 @@
   border-color: #8dc3eb;
   border-radius: 0;
   color: #fff;
-  font: 700 14px/1.14 Gotham;
+  font: 700 14px/1.14 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   padding: 10px;
 }
 
@@ -154,7 +154,7 @@
 }
 
 #popup-message {
-  font-family: Gotham;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   font-size: 16px;
   font-weight: bold;
 }
@@ -174,13 +174,13 @@
 
 .label {
   color: #000;
-  font: 700 14px/1.14 Gotham;
+  font: 700 14px/1.14 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   font-stretch: normal;
   letter-spacing: -0.25px;
 }
 
 .legend-font {
-  font: 700 12px/1.33 Gotham;
+  font: 700 12px/1.33 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   letter-spacing: normal;
 }
 
@@ -284,7 +284,7 @@
 
 .traffic-text {
   color: #000;
-  font: 700 14px/1.14 Gotham;
+  font: 700 14px/1.14 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   font-stretch: normal;
   height: 16px;
   letter-spacing: -0.25px;
